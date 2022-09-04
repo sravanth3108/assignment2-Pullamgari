@@ -27,5 +27,5 @@ Below are the details of the recommended places to visit
 
 ***
 # Inspirational quotes
-> Dream is not that which you see while sleeping, it is something that does not let you sleep. - *Abdul Kalam*
+> Dream is not that which you see while sleeping, it is something that does not let you sleep. - *Abdul Kalam*<br>
 >I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it. - *Bill Gates*
