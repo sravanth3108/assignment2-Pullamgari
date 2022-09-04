@@ -10,3 +10,6 @@ The museum exhibits objects of art like **Chinese Porcelain**, **Aurangazeb's Sw
     1. Board the buses to Lakdi-ka-pul.
     2. Then travel via MMTS train to Osmania Medical college station.
     3. From the station, we can walk to the museum.
+* Charminar
+* Nehru Zoological park
+* Tank bund
