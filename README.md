@@ -13,4 +13,4 @@ The museum exhibits objects of art like **Chinese Porcelain**, **Aurangazeb's Sw
 * Charminar
 * Nehru Zoological park
 * Tank bund
-**[About Me](AboutMe.md)**
+
