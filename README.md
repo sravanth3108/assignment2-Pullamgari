@@ -24,3 +24,8 @@ Below are the details of the recommended places to visit
 |Delhi | Red fort | 2 hours|
 |Chennai | Marine Drive | 2 hours|
 |Kolkata| Kali Temple| 2 hours|
+
+***
+# Inspirational quotes
+> Dream is not that which you see while sleeping, it is something that does not let you sleep. - *Abdul Kalam*
+>I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it. - *Bill Gates*
