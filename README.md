@@ -13,4 +13,14 @@ The museum exhibits objects of art like **Chinese Porcelain**, **Aurangazeb's Sw
 * Charminar
 * Nehru Zoological park
 * Tank bund
-**[Go to About me](Aboutme.md)** 
+**[Go to About me](Aboutme.md)**
+
+***
+# Recommended places to visit
+Below are the details of the recommended places to visit
+| Name | Imp location | Time to spend|
+| ---- | ------------ | ------------ |
+|Hyderabad| Charminar| 1 hour|
+|Delhi | Red fort | 2 hours|
+|Chennai | Marine Drive | 2 hours|
+|Kolkata| Kali Temple| 2 hours|
