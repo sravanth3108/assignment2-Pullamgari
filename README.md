@@ -33,20 +33,22 @@ Below are the details of the recommended places to visit
 ***
 # Code Fencing
 
->How to wrap long lines inside of markdown ``` code ``` in Github and Gitlab issues?
-[Answer](https://stackoverflow.com/questions/41238148/how-to-wrap-long-lines-inside-of-markdown-code-in-github-and-gitlab-issu)
+>How to keep text from running over svg in responsive design?
+[Link to article](https://stackoverflow.com/questions/41238148/how-to-wrap-long-lines-inside-of-markdown-code-in-github-and-gitlab-issu)
 
 ```
-type SVG = {
-  type: 'svg',
-  x: number,
-  y: number,
-  w: number,
-  h: number,
-  angle: number,
-  desc: {
-    svg: string,
-  }
-}
+<svg viewBox="0 0 100 100">
+  <text>
+    <tspan class="line-1" textLength="100" x="0" y="1em" font-size="20">
+      The Cat
+    </tspan>
+    <tspan class="line-2" textLength="100" x="0" dy="0.9em" font-size="20" lengthAdjust="spacingAndGlyphs">
+      in the
+    </tspan>
+    <tspan class="line-3" textLength="100" x="0" dy="0.9em" font-size="35">
+      Hat
+    </tspan>
+  </text>
+</svg>
 ```
-[Snippet Source](https://idraw.js.org/docs/en/element/svg.html)
+[Snippet Source](https://css-tricks.com/snippets/svg/text-lock-up/)
