@@ -29,3 +29,24 @@ Below are the details of the recommended places to visit
 # Inspirational quotes
 > Dream is not that which you see while sleeping, it is something that does not let you sleep. - *Abdul Kalam*<br>
 >I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it. - *Bill Gates*
+
+***
+# Code Fencing
+
+>How to wrap long lines inside of markdown ``` code ``` in Github and Gitlab issues?
+[Answer](https://stackoverflow.com/questions/41238148/how-to-wrap-long-lines-inside-of-markdown-code-in-github-and-gitlab-issu)
+
+```
+type SVG = {
+  type: 'svg',
+  x: number,
+  y: number,
+  w: number,
+  h: number,
+  angle: number,
+  desc: {
+    svg: string,
+  }
+}
+```
+[Snippet Source](https://idraw.js.org/docs/en/element/svg.html)
